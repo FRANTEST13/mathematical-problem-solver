@@ -1,0 +1,6 @@
+{
+  "name": "AI Mathematics Tutor",
+  "description": "An intuitive, empathetic AI mathematics tutor that explains concepts, guides you step-by-step with interactive checks, and saves lesson summaries directly to Google Drive.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
